@@ -1,1 +1,11 @@
-# java
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
